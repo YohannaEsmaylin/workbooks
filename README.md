@@ -49,27 +49,31 @@ Visuals: Interactive dashboards created in Tableau and Power BI.
 ![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/1d67c01ab1e1df2a49e3a461f0fb67d1251995e1/Tableau%20and%20PowerBI/Screenshot%202025-04-23%20at%2009.04.58.png)
 ![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/1d67c01ab1e1df2a49e3a461f0fb67d1251995e1/Tableau%20and%20PowerBI/Screenshot%202025-04-23%20at%2009.05.26.png)
 ![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/1d67c01ab1e1df2a49e3a461f0fb67d1251995e1/Tableau%20and%20PowerBI/Screenshot%202025-04-23%20at%2009.05.57.png)
-3. Week 3 - Relational Database & SQL Queries
-SQL Joins Reference: Examples of SQL joins including INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN, and SELF JOIN with query examples.
-
-🛠️ SQL Database Implementation – FastAndFresh
-This section demonstrates creating a basic database with tables for inventory, customer, and sales data, including SQL code for creating and inserting data into these tables.
 
 💼 Week 4: Career Development Week (Non-Technical)
 This week focused on enhancing career-building skills, such as CV optimisation, interview preparation, LinkedIn profile enhancement, and understanding the job market. No technical workbook was submitted for this week.
 
 ☁️ Week 5: Cloud Storage, Microsoft Azure & Labs
 What is Microsoft Azure? Azure is a cloud computing platform offering various services for building, managing, and deploying applications.
-
 Labs: Hands-on exploration of relational and non-relational data in Azure.
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/4f7c753595edead78715acdca976977b294dd521/azure/Screenshot%202025-04-23%20at%2009.34.09.png)
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/4f7c753595edead78715acdca976977b294dd521/azure/Screenshot%202025-04-23%20at%2009.34.32.png)
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/4f7c753595edead78715acdca976977b294dd521/azure/Screenshot%202025-04-23%20at%2009.34.54.png)
 
 🐍 Week 6: Python Scripting and Libraries
 What is Python? A versatile programming language for data analysis, scripting, and automation.
-
 Tools Covered: Pandas (data manipulation), Matplotlib, Seaborn (visualisation), and Plotly (interactive visualisations).
-
 Focus: Loading data, performing data aggregation, and creating visualisations like bar charts and histograms.
-
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/4f7c753595edead78715acdca976977b294dd521/Python/Screenshot%202025-04-23%20at%2009.35.55.png)
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/4f7c753595edead78715acdca976977b294dd521/Python/Screenshot%202025-04-23%20at%2009.36.19.png)
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/4f7c753595edead78715acdca976977b294dd521/Python/Screenshot%202025-04-23%20at%2009.36.48.png)
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/4f7c753595edead78715acdca976977b294dd521/Python/Screenshot%202025-04-23%20at%2009.37.14.png)
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/4f7c753595edead78715acdca976977b294dd521/Python/Screenshot%202025-04-23%20at%2009.37.36.png)
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/4f7c753595edead78715acdca976977b294dd521/Python/Screenshot%202025-04-23%20at%2009.37.56.png)
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/4f7c753595edead78715acdca976977b294dd521/Python/Screenshot%202025-04-23%20at%2009.38.24.png)
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/4f7c753595edead78715acdca976977b294dd521/Python/Screenshot%202025-04-23%20at%2009.38.47.png)
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/4f7c753595edead78715acdca976977b294dd521/Python/Screenshot%202025-04-23%20at%2009.39.15.png)
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/4f7c753595edead78715acdca976977b294dd521/Python/Screenshot%202025-04-23%20at%2009.39.50.png)
 # 🧠 Skills & Experience Overview
 Strong knowledge of Data and Big Data concepts.
 

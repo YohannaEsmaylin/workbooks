@@ -31,7 +31,14 @@ Topics Covered: Data manipulation with Pandas, data visualisation using Matplotl
 # 📊 Weekly Workbook Visualisations
 1. Week 1 - Excel Functions, Pivot Table, VLOOKUP
 Visuals: Examples of Excel functions, VLOOKUP/XLOOKUP formulas, PivotTables, and bar charts.
-
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/2d67672228ceb2a5490c365e69ceac67b0d22496/excel%20screenshot/Screenshot%202025-04-23%20at%2009.21.14.png)
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/2d67672228ceb2a5490c365e69ceac67b0d22496/excel%20screenshot/Screenshot%202025-04-23%20at%2009.21.43.png)
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/2d67672228ceb2a5490c365e69ceac67b0d22496/excel%20screenshot/Screenshot%202025-04-23%20at%2009.22.10.png)
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/2d67672228ceb2a5490c365e69ceac67b0d22496/excel%20screenshot/Screenshot%202025-04-23%20at%2009.22.45.png)             
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/2d67672228ceb2a5490c365e69ceac67b0d22496/excel%20screenshot/Screenshot%202025-04-23%20at%2009.23.19.png)
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/2d67672228ceb2a5490c365e69ceac67b0d22496/excel%20screenshot/Screenshot%202025-04-23%20at%2009.23.54.png)
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/2d67672228ceb2a5490c365e69ceac67b0d22496/excel%20screenshot/Screenshot%202025-04-23%20at%2009.24.32.png)
+![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/2d67672228ceb2a5490c365e69ceac67b0d22496/excel%20screenshot/Screenshot%202025-04-23%20at%2009.24.53.png)
 2. Week 2 - Tableau & Data Visualisation
 Visuals: Interactive dashboards created in Tableau and Power BI.
 ![image alt](https://github.com/YohannaEsmaylin/workbooks/blob/1d67c01ab1e1df2a49e3a461f0fb67d1251995e1/Tableau%20and%20PowerBI/Screenshot%202025-04-23%20at%2009.01.05.png)
